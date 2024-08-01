@@ -1,0 +1,15 @@
+{
+  "name": "simple_chat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "sh-sofi",
+  "license": "ISC",
+  "description": "A simple chat application using WebSockets",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
