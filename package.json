@@ -5,9 +5,12 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "WebSockets"
+  ],
   "author": "sh-sofi",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A simple chat application using WebSockets",
   "dependencies": {
     "socket.io": "^4.7.5"

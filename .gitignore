@@ -1,2 +1,8 @@
 # Node modules
 node_modules/
+
+# Editor settings
+.vscode/
+
+# Log files
+*.log
